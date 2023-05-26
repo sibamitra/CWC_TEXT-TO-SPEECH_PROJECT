@@ -1,5 +1,5 @@
 # CWC_TEXT-TO-SPEECH_PROJECT
-This is the CWC Project of Text To Speech App and it can be made by Sibaditya Mitra and Priyadarshini Nayak .
+This is the CWC Project of Text To Speech App and it can be made by Sibaditya Mitra .
 In this app any user can type the text and it converts into speech so that anyone can listen
 It is a type of assisitive technology that reads digital text aloud 
 TTS is very helpful for those who are struggle with reading
